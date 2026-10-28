@@ -1,6 +1,6 @@
 from pos_next.utils import get_build_version
 
-app_name = "pos_next"
+app_name = "pos_nextv2"
 app_title = "POS Next"
 app_publisher = "BrainWise"
 app_description = "POS built on ERPNext that brings together real-time billing, stock management, multi-user access, offline mode, and direct ERP integration. Run your store or restaurant with confidence and control, while staying 100% open source."
@@ -15,7 +15,7 @@ app_license = "agpl-3.0"
 # Each item in the list will be shown as an app in the apps page
 add_to_apps_screen = [
 	{
-		"name": "pos_next",
+		"name": "pos_nextv2",
 		"logo": "/assets/pos_next/pos/icon.svg",
 		"title": "POS Next",
 		"route": "/pos",
